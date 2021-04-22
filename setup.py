@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "itch.py",
-    version = "1.1",
+    version = "1.2",
     author = "Ege Paksoy",
     author_email = "egepaskoy@gmail.com",
     packages = find_packages(),
